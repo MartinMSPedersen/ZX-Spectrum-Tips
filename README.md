@@ -13,7 +13,7 @@
 * LOAD/SAVE headerless files
   [Headerless BASIC command](https://worldofspectrum.net/item/0026892/)
 
-Free memory for loader (use after CLEAR xxx)
+* Free memory for loader (use after CLEAR xxx)
 ```
 PRINT 65536-USR 7962
 ```
